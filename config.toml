@@ -1,0 +1,28 @@
+baseURL = "https://lukedeaves.co.uk/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Luke Deaves"
+copyright = ""
+
+enableEmoji = false
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  attribution = false
+  showCopyright = false
+
+[params.author]
+  name = "Luke Deaves"
+  # headline = ""
+  image = "author.jpg"
+
+  links = [
+    { linkedin = "https://linkedin.com/in/lukedeaves" },
+    { github = "https://github.com/LukeDeaves"},
+    # { email = "mailto:" },
+    # { link = { href = "", text = "Alternate title"} }, # icon = "github"
+    # { youtube = "" },
+    # { discord = "" },
+    # { steam = "" },
+  ]
