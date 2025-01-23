@@ -1,1 +1,1 @@
-A simple links page powered by [Hugo](https://gohugo.io) using [Lynx](https://github.com/jpanther/lynx), a template powered by Tailwind CSS.
+A simple links page powered by [Hugo](https://gohugo.io) using [Lynx](https://github.com/jpanther/lynx), a template powered by [Tailwind CSS](https://tailwindcss.com).
